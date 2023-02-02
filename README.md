@@ -6,7 +6,7 @@
 
 <br>
 
-  <p align="left">
+  <p align="center">
     Hi, I'm Matheus Maldonado, Research Assistant & Computer Engineer & Software Developer from Brazil
     <br>
     <br>
@@ -25,7 +25,7 @@
     📫 How to reach me: <a href="mailto: matheusmaldonadosilva@outlook.com">matheusmaldonadosilva@outlook.com</a>
 
   </p>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="width:200px; display: block;" data-target="animated-image.originalImage">
+  
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -34,6 +34,7 @@
 
 <br>
 <p align="center">
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="width:400px; display: block;" data-target="animated-image.originalImage">
   <!--
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
