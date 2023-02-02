@@ -5,28 +5,28 @@
 </h1>
 
 <br>
-<p align="center">
-  Hi, I'm Matheus Maldonado, Research Assistant & Computer Engineer & Software Developer from Brazil
-  <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: matheusmaldonadosilva@outlook.com">matheusmaldonadosilva@outlook.com</a>
-  
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-  
-</p>
+<div style="display: flex">
+  <p align="center">
+    Hi, I'm Matheus Maldonado, Research Assistant & Computer Engineer & Software Developer from Brazil
+    <br>
+    <br>
+    🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+    <br>
+    🎓 I graduated from Black Sea Technical University Computer Engineering Department
+    <br>
+    🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+    <br>
+    💻 I love writing code and learn anythings about it
+    <br>
+    📚 I’m currently learning how to build E-Commerce Website with Django
+    <br>
+    💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+    <br>
+    📫 How to reach me: <a href="mailto: matheusmaldonadosilva@outlook.com">matheusmaldonadosilva@outlook.com</a>
 
+  </p>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</div>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
