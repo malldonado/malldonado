@@ -34,7 +34,7 @@
 
 <br>
 
-<p align="center">
+<p align="center" style="display: inline">
   
   <!--
   <code><img title="C" height="25" src="images/c.svg"></code>
