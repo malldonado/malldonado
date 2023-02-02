@@ -6,26 +6,6 @@
 
 <br>
 
-  <p align="center">
-    Hi, I'm Matheus Maldonado, Research Assistant & Computer Engineer & Software Developer from Brazil
-    <br>
-    <br>
-    🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-    <br>
-    🎓 I graduated from Black Sea Technical University Computer Engineering Department
-    <br>
-    🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-    <br>
-    💻 I love writing code and learn anythings about it
-    <br>
-    📚 I’m currently learning how to build E-Commerce Website with Django
-    <br>
-    💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-    <br>
-    📫 How to reach me: <a href="mailto: matheusmaldonadosilva@outlook.com">matheusmaldonadosilva@outlook.com</a>
-
-  </p>
-
 ## Hey 👋, I'm Rahul Jha!
 <a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
