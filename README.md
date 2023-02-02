@@ -30,7 +30,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="width:400px; display: block;" data-target="animated-image.originalImage">
+<!--<img align="center" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="width:400px; display: block;" data-target="animated-image.originalImage"> -->
 
 <br>
 
@@ -46,7 +46,16 @@
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="BOOTSTRAP" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="CODEIGNITER" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="SOCKET.IO" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="LARAVEL" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="REDUX" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="REDIS" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="ADONIS.JS" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="AWS" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="FIREBASE" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="VERCEL" height="25" src="images/bootstrap.svg"></code>
+  
   <!--<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>-->
   
   
