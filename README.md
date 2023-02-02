@@ -15,7 +15,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif" width="400px" height="250px"/>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
 ### 🧐 More About Me:
 
