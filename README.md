@@ -33,8 +33,9 @@
 
 
 <br>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="width:400px; display: block;" data-target="animated-image.originalImage">
 <p align="center">
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="width:400px; display: block;" data-target="animated-image.originalImage">
+  
   <!--
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
