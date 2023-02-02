@@ -25,10 +25,6 @@
     📫 How to reach me: <a href="mailto: matheusmaldonadosilva@outlook.com">matheusmaldonadosilva@outlook.com</a>
 
   </p>
-  
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
 
 ## Hey 👋, I'm Rahul Jha!
 <a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
@@ -54,6 +50,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+
 <br>
 
 ### 🔨 Languages and Tools:
@@ -75,43 +76,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-<p align="center" style="display: inline">
-  
-  <!--
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  -->
-  <!--<code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code> -->
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <!--<code><img title="CODEIGNITER" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="SOCKET.IO" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="LARAVEL" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="REDUX" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="REDIS" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="ADONIS.JS" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="AWS" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="FIREBASE" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="VERCEL" height="25" src="images/bootstrap.svg"></code> -->
-  
-  <!--<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>-->
-  
-  
-  <!--<code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <!--
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-</p>
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
