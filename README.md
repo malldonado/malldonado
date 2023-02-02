@@ -58,6 +58,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <hr>
 
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -79,7 +80,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
+-->
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
