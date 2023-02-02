@@ -30,10 +30,10 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
-
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="width:400px; display: block;" data-target="animated-image.originalImage">
 
 <br>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" style="width:400px; display: block;" data-target="animated-image.originalImage">
+
 <p align="center">
   
   <!--
