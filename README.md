@@ -46,7 +46,7 @@
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="CODEIGNITER" height="25" src="images/bootstrap.svg"></code>
+  <!--<code><img title="CODEIGNITER" height="25" src="images/bootstrap.svg"></code>
   <code><img title="SOCKET.IO" height="25" src="images/bootstrap.svg"></code>
   <code><img title="LARAVEL" height="25" src="images/bootstrap.svg"></code>
   <code><img title="REDUX" height="25" src="images/bootstrap.svg"></code>
@@ -54,7 +54,7 @@
   <code><img title="ADONIS.JS" height="25" src="images/bootstrap.svg"></code>
   <code><img title="AWS" height="25" src="images/bootstrap.svg"></code>
   <code><img title="FIREBASE" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="VERCEL" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="VERCEL" height="25" src="images/bootstrap.svg"></code> -->
   
   <!--<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>-->
   
