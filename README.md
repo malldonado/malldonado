@@ -105,7 +105,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 </div>
 -->
 
-<br><br><br><br><br><br>
+<br>
 <h4 align="center">
   <a href="https://github.com/matheusmaldonadosilva?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
