@@ -7,7 +7,7 @@
 <br>
 
 <a href='https://br.linkedin.com/in/matheusmaldonadosilva'><img height="18px" align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg"/></a>
-<a href='https://twitter.com/matheusmaldonadosilva'><img height="18px" align='left' alt="instagram" src="https://icones.pro/wp-content/uploads/2021/02/instagram-icone-gris.png" /></a>
+<a href='https://www.instagram.com/matheusilvaas/'><img height="18px" align='left' alt="instagram" src="https://icones.pro/wp-content/uploads/2021/02/instagram-icone-gris.png" /></a>
 <a href='https:///www.matheusmaldoanadosilva.com'><img height="18px" alt="website" src="https://icon-library.com/images/web-icon-svg/web-icon-svg-5.jpg" /></a>
 
 
