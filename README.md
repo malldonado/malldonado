@@ -54,6 +54,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="pytorch" height="36px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452130/vue.svg" alt="pytorch" height="36px"/> </a>
 <br>
+<br>
 <div>
   <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353940/jquery.svg" alt="pytorch" height="36px"/> </a> 
   <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="pytorch" height="36px"/> </a> 
