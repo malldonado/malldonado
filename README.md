@@ -36,9 +36,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-### 🔨 Languages and Tools:
+<!-- ### 🔨 Languages and Tools: -->
 
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452214/html-5.svg" alt="pytorch" height="14px"/> </a> 
+<!-- <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452214/html-5.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452185/css-3.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/374061/sass.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="pytorch" height="14px"/> </a> 
@@ -47,13 +47,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="#" target="_blank" > <img align="left" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452130/vue.svg" alt="pytorch" height="14px"/> </a>
 <a href="#" target="_blank" > <img align="left" src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" alt="pytorch" height="14px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448222/figma.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353940/jquery.svg" alt="pytorch" height="14px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353714/express.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452093/redux.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353386/algolia.svg" alt="pytorch" height="14px"/> </a>
+<br>
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/342225/socket-io.svg" alt="pytorch" height="14px"/> </a>
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/378837/node.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452088/php.svg" alt="pytorch" height="14px"/> </a> 
@@ -68,12 +71,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448218/digital-ocean.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354512/vercel.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448221/docker.svg" alt="pytorch" height="14px"/> </a> 
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="pytorch" height="14px"/> </a> 
-
-<br>
-<br>
-<br>
-<br>
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="pytorch" height="14px"/> </a>  -->
 
 <!--
 <h2 align="center">⚡ Stats ⚡</h2>
