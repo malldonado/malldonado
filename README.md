@@ -76,7 +76,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
  </div>
 
 <br>
-
+<br>
+<br>
 <br>
 
 <!--
