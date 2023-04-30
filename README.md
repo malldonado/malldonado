@@ -37,39 +37,40 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="#" target="_blank" > <img align="left" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/378837/node.svg" alt="pytorch" height="36px"/> </a> <br>
+<a href="#" target="_blank" > <img align="left" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/378837/node.svg" alt="pytorch" height="36px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="pytorch" height="36px"/> </a>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353724/express.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373521/composer.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452088/php.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452185/css-3.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/374061/sass.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452093/redux.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373595/firebase.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354272/redis.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="pytorch" height="36px"/> </a> <br>
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353724/express.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373521/composer.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452088/php.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452185/css-3.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/374061/sass.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452093/redux.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373595/firebase.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354272/redis.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="pytorch" height="36px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452130/vue.svg" alt="pytorch" height="36px"/> </a>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353940/jquery.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354512/vercel.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448266/aws.svg" alt="pytorch" height="36px"/> </a> <br>
+<br>
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353940/jquery.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354512/vercel.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448266/aws.svg" alt="pytorch" height="36px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/342225/socket-io.svg" alt="pytorch" height="36px"/> </a>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452228/html-5.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373574/ejs.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448221/docker.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448218/digital-ocean.svg" alt="pytorch" height="36px"/> </a> <br>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448222/figma.svg" alt="pytorch" height="36px"/> </a> <br>
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452228/html-5.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373574/ejs.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448221/docker.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448218/digital-ocean.svg" alt="pytorch" height="36px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448222/figma.svg" alt="pytorch" height="36px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353386/algolia.svg" alt="pytorch" height="36px"/> </a>
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="pytorch" height="36px"/> </a> <br>
+<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="pytorch" height="36px"/> </a> 
 
 <br>
 
