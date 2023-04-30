@@ -52,12 +52,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="#" target="_blank" > <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452093/redux.svg" alt="pytorch" height="28px"/> </a> 
+<br>
+<br>
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353386/algolia.svg" alt="pytorch" height="28px"/> </a>
-<br>
-<br>
-<div>
+
   <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/342225/socket-io.svg" alt="pytorch" height="36px"/> </a>
   <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/378837/node.svg" alt="pytorch" height="36px"/> </a> 
   <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452088/php.svg" alt="pytorch" height="36px"/> </a> 
@@ -73,7 +73,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354512/vercel.svg" alt="pytorch" height="36px"/> </a> 
   <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448221/docker.svg" alt="pytorch" height="36px"/> </a> 
   <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="pytorch" height="36px"/> </a> 
- </div>
 
 <br>
 <br>
