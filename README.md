@@ -47,10 +47,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="#" target="_blank" > <img align="left" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452130/vue.svg" alt="pytorch" height="14px"/> </a>
 <a href="#" target="_blank" > <img align="left" src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" alt="pytorch" height="14px"/> </a> 
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448222/figma.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353940/jquery.svg" alt="pytorch" height="14px"/> </a> 
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353714/express.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452093/redux.svg" alt="pytorch" height="14px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="pytorch" height="14px"/> </a> 
