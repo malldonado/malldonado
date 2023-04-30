@@ -49,7 +49,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/448222/figma.svg" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353940/jquery.svg" alt="pytorch" height="28px"/> </a> 
-<a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/353728/express.svg" alt="pytorch" height="28px"/> </a> 
+<a href="#" target="_blank" > <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/373863/nest-middleware-js.svg" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/452093/redux.svg" alt="pytorch" height="28px"/> </a> 
 <a href="#" target="_blank" > <img align="left" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="pytorch" height="28px"/> </a> 
