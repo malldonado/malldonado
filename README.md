@@ -7,9 +7,9 @@
 <br>
 
 <a href='https://br.linkedin.com/in/matheusmaldonadosilva'><img height="18px" align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg"/></a>
-<a href='https://www.instagram.com/matheusilvaas/'><img height="18px" align='left' alt="instagram" src="https://icones.pro/wp-content/uploads/2021/02/instagram-icone-gris.png" /></a>
-<a href='https://dribbble.com/matheusmaldonadodasilva'><img height="18px" align='left' alt="dribbble" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgtxYrKKu07gqK4TjwMX9IItsV0e5In9uiBGHYNvcbFMM9I6a76OZGqs7o5dlfGQA6Nus&usqp=CAU" /></a>
-<a href='https://matheusmaldonado.vercel.app'><img height="18px" alt="website" src="https://icon-library.com/images/web-icon-svg/web-icon-svg-5.jpg" /></a>
+<a href='https://www.instagram.com/malldonado.dev/'><img height="18px" align='left' alt="instagram" src="https://icones.pro/wp-content/uploads/2021/02/instagram-icone-gris.png" /></a>
+<a href='https://dribbble.com/malldonado'><img height="18px" align='left' alt="dribbble" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgtxYrKKu07gqK4TjwMX9IItsV0e5In9uiBGHYNvcbFMM9I6a76OZGqs7o5dlfGQA6Nus&usqp=CAU" /></a>
+<a href='https://malldonado.dev'><img height="18px" alt="website" src="https://icon-library.com/images/web-icon-svg/web-icon-svg-5.jpg" /></a>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
