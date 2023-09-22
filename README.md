@@ -12,7 +12,7 @@
 <a href='https://malldonado.dev'><img height="18px" alt="website" src="https://icon-library.com/images/web-icon-svg/web-icon-svg-5.jpg" /></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I'm a dedicated full stack developer 👨‍💻, passionate about challenges and always eager to tackle new projects 💡, bringing innovative ideas to life."
 <br/>
 <br/>
 
