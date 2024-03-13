@@ -29,7 +29,7 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 🎨 &nbsp; Using [Behance](https://www.behance.net/malldonado) and Behance I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](contato@malldonado.dev).
-- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado.dev](https://malldonado.dev/) or by searching in the repository, such as axeicaixa, desenvolve, gtm engenharia, cartplaces, and administro.
+- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado.dev](https://malldonado.dev/) or by searching in the repository, such as mebot, desenvolve, gtm engenharia, cartplaces.
 
 
 <!-- <hr>
