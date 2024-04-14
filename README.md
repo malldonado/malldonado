@@ -6,10 +6,10 @@
 
 <br>
 
-<a href='https://br.linkedin.com/in/matheusmaldonadosilva'><img height="18px" align='left' alt="linkedin" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png?ga=GA1.1.1911516281.1712110162&"/></a>
-<a href='https://www.instagram.com/malldonado.dev/'><img height="18px" align='left' alt="instagram" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" /></a>
-<a href='https://www.behance.net/malldonado'><img height="18px" align='left' alt="behance" src="https://cdn-icons-png.freepik.com/512/3536/3536806.png?ga=GA1.1.1911516281.1712110162&" /></a>
-<a href='https://malldonado.dev'><img height="18px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
+<a href='https://br.linkedin.com/in/matheusmaldonadosilva'><img height="20px" align='left' alt="linkedin" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png?ga=GA1.1.1911516281.1712110162&"/></a>
+<a href='https://www.instagram.com/malldonado.dev/'><img height="20px" align='left' alt="instagram" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" /></a>
+<a href='https://www.behance.net/malldonado'><img height="20px" align='left' alt="behance" src="https://cdn-icons-png.freepik.com/512/3536/3536806.png?ga=GA1.1.1911516281.1712110162&" /></a>
+<a href='https://malldonado.dev'><img height="20px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
 
 
 I'm a dedicated full stack developer 👨‍💻, passionate about challenges and always eager to tackle new projects 💡, bringing innovative ideas to life."
