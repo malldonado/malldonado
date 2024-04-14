@@ -7,7 +7,7 @@
 <br>
 
 <a href='https://br.linkedin.com/in/matheusmaldonadosilva'><img height="18px" align='left' alt="linkedin" src="https://image.pngaaa.com/429/158429-middle.png"/></a>
-<a href='https://www.instagram.com/malldonado.dev/'><img height="18px" align='left' alt="instagram" src="https://toppng.com/uploads/preview/white-instagram-icon-instagram-logo-instagram-instagram-icon-white-11553385558clvu7hxuql.png" /></a>
+<a href='https://www.instagram.com/malldonado.dev/'><img height="18px" align='left' alt="instagram" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" /></a>
 <a href='https://www.behance.net/malldonado'><img height="18px" align='left' alt="behance" src="https://cpng.pikpng.com/pngl/s/271-2717915_behance-logo-black-and-white-close-icon-png.png" /></a>
 <a href='https://malldonado.dev'><img height="18px" alt="website" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp1zeTrOJJ3--_yd-pHPSvm1O40O7fZEXIHi6927qRVQ&s" /></a>
 
