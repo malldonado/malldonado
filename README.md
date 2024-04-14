@@ -1,15 +1,15 @@
 
   <a align="center" href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&color=000000&width=435&lines=Hello%2C+There!!👋;I'm+Matheus+Maldonado;Welcome+to+my+github!!" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&color=ffffff&width=435&lines=Hello%2C+There!!👋;I'm+Matheus+Maldonado;Welcome+to+my+github!!" alt="Typing SVG" />
   </a>
 
 
 <br>
 
-<a href='https://br.linkedin.com/in/matheusmaldonadosilva'><img height="18px" align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg"/></a>
-<a href='https://www.instagram.com/malldonado.dev/'><img height="18px" align='left' alt="instagram" src="https://icones.pro/wp-content/uploads/2021/02/instagram-icone-gris.png" /></a>
-<a href='https://www.behance.net/malldonado'><img height="18px" align='left' alt="behance" src="https://cdn.icon-icons.com/icons2/1130/PNG/512/behancelogoincircularsocialinterfacebutton_80297.png" /></a>
-<a href='https://malldonado.dev'><img height="18px" alt="website" src="https://icon-library.com/images/web-icon-svg/web-icon-svg-5.jpg" /></a>
+<a href='https://br.linkedin.com/in/matheusmaldonadosilva'><img height="18px" align='left' alt="linkedin" src="https://image.pngaaa.com/429/158429-middle.png"/></a>
+<a href='https://www.instagram.com/malldonado.dev/'><img height="18px" align='left' alt="instagram" src="https://toppng.com/uploads/preview/white-instagram-icon-instagram-logo-instagram-instagram-icon-white-11553385558clvu7hxuql.png" /></a>
+<a href='https://www.behance.net/malldonado'><img height="18px" align='left' alt="behance" src="https://cpng.pikpng.com/pngl/s/271-2717915_behance-logo-black-and-white-close-icon-png.png" /></a>
+<a href='https://malldonado.dev'><img height="18px" alt="website" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp1zeTrOJJ3--_yd-pHPSvm1O40O7fZEXIHi6927qRVQ&s" /></a>
 
 
 I'm a dedicated full stack developer 👨‍💻, passionate about challenges and always eager to tackle new projects 💡, bringing innovative ideas to life."
