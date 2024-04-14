@@ -16,6 +16,7 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 <br>
 <br>
 <div style="margin-bottom: -40px">
+  <br>
   <img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzd3QzaWZ2NGFhb3p5eW9qcmFoN2piYjN4cGxkeGZrZnV0Y2FnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhkgRdrMSnqDBofJru/giphy.gif' width="300px">
   <!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height="50px" width='100px"'> -->
 </div>
