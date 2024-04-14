@@ -16,7 +16,7 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 <br>
 <br>
 
-<img align='right' style="margin-bottom: -40px" src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzd3QzaWZ2NGFhb3p5eW9qcmFoN2piYjN4cGxkeGZrZnV0Y2FnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhkgRdrMSnqDBofJru/giphy.gif' width="300px">
+<img align='right' style="margin-bottom: 30px" src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzd3QzaWZ2NGFhb3p5eW9qcmFoN2piYjN4cGxkeGZrZnV0Y2FnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhkgRdrMSnqDBofJru/giphy.gif' width="300px">
 
 ### 🧐 More About Me:
 
