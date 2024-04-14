@@ -15,12 +15,12 @@
 I'm a dedicated full stack developer 👨‍💻, passionate about challenges and always eager to tackle new projects 💡, bringing innovative ideas to life."
 <br/>
 <br/>
-
+<br/>
 <img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzd3QzaWZ2NGFhb3p5eW9qcmFoN2piYjN4cGxkeGZrZnV0Y2FnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhkgRdrMSnqDBofJru/giphy.gif' width="300px">
 <!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height="50px" width='100px"'> -->
   
 ### 🧐 More About Me:
-
+<div align="left">
 - 👨‍🎓 &nbsp; I have a degree in Analysis and Systems Development from FATEC and I am currently attending an advanced English course in person at Influx.
 - 🐶 &nbsp; I contributed as a front-end developer to our group's TCC project, creating a website for an animal adoption.
 - 🤝 &nbsp; I contributed by working at [Performa.ai](https://performa.ai/) for over 2 years, focusing on e-commerce integrations.
@@ -30,7 +30,7 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](contato@malldonado.dev).
 - 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado.dev](https://malldonado.dev/) or by searching in the repository, such as mebot, desenvolve, gtm engenharia, cartplaces.
-
+</div>
 
 <!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
