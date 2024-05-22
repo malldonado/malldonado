@@ -28,9 +28,8 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/malldonado?tab=repositories)
 - 🎨 &nbsp; Using [Dribbble](dribbble.com/malldonado) and Dribbble I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](contato@malldonado.dev).
-- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado.dev](https://malldonado.dev/) or by searching in the repository, such as aerocloud, gtm engenharia, cartplaces.
-
+- 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](contato@malldonado.top).
+- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado.top](https://malldonado.top) or by searching in the repository, such as acheiponto, artburger, cartplaces, gtm engenharia, mebot, shareidea and and other projects under development, like the applications called Desenvolve and Aerocloud.
 
 <!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
