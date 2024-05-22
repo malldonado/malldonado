@@ -10,7 +10,7 @@
 <a href='https://www.instagram.com/malldonado.dev/'><img height="20px" align='left' alt="instagram" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" /></a>
 <a href='https://buymeacoffee.com/malldonado'><img height="20px" align='left' alt="dribbble" src="https://cdn.bio.link/uploads/profile_pictures/2021-10-05/jXxjMGd03YlgKnrAU6zDQlV78F6tAo1o.png" /></a>
 <a href='https://dribbble.com/malldonado'><img height="20px" align='left' alt="dribbble" src="https://cdn-icons-png.freepik.com/512/408/408743.png" /></a>
-<a href='https://malldonado.dev'><img height="20px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
+<a href='https://malldonado.vercel.app/'><img height="20px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
 
 
 I'm a dedicated full stack developer 👨‍💻, passionate about challenges and always eager to tackle new projects 💡, bringing innovative ideas to life."
@@ -28,8 +28,8 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/malldonado?tab=repositories)
 - 🎨 &nbsp; Using [Dribbble](dribbble.com/malldonado) and Dribbble I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](contato@malldonado.top).
-- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado.top](https://malldonado.top) or by searching in the repository, such as Acheiponto, Artburger, Cartplaces, GTM Engenharia, Mebot, Shareidea and and other projects under development, like the applications called Desenvolve and Aerocloud.
+- 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](matheusmaldonadosilva@outlook.com).
+- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado](https://malldonado.vercel.app) or by searching in the repository, such as [acheiponto](https://acheiponto.vercel.app), [artburger](https://artburger.vercel.app), [cartplaces](https://cartplaces.vercel.app), [gtm engenharia](https://gtmengenharia.vercel.app), [mebot](https://mebot.vercel.app), [shareidea](https://malldonado.vercel.app) and and other projects under development, like the applications called desenvolve and aerocloud.
 
 <!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
