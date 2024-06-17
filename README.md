@@ -29,7 +29,7 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 🎨 &nbsp; Using [Dribbble](dribbble.com/malldonado) and Dribbble I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](matheusmalldonado@gmail.com).
-- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado](https://malldonado.vercel.app) or by searching in the repository, such as [acheiponto](https://acheiponto.vercel.app), [artburger](https://artburger.vercel.app), [gtm engenharia](https://gtmengenharia.vercel.app) and and other projects under development, like the applications called desenvolve and fluxplaces.
+- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado](https://malldonado.vercel.app) or by searching in the repository, such as [artburger](https://artburger.vercel.app), [gtm engenharia](https://gtmengenharia.vercel.app), [desenvolve](https://desenvolve.vercel.app), [fluxplaces](https://fluxplaces.vercel.app).
 
 <!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
