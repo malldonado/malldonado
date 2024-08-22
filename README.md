@@ -6,7 +6,7 @@
 
 <br>
 
-<a href='https://br.linkedin.com/in/matheusmaldonadosilva'><img height="20px" align='left' alt="linkedin" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png?ga=GA1.1.1911516281.1712110162&"/></a>
+<a href='https://br.linkedin.com/in/malldonado'><img height="20px" align='left' alt="linkedin" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png?ga=GA1.1.1911516281.1712110162&"/></a>
 <a href='https://www.instagram.com/matheusmalldonado'><img height="20px" align='left' alt="instagram" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" /></a>
 <a href='https://dribbble.com/malldonado'><img height="20px" align='left' alt="dribbble" src="https://cdn-icons-png.freepik.com/512/408/408743.png" /></a>
 <a href='https://malldonado.vercel.app/'><img height="20px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
@@ -27,7 +27,7 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/malldonado?tab=repositories)
 - 🎨 &nbsp; Using [Dribbble](dribbble.com/malldonado) and Dribbble I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](maalldonado@outlook.com).
+- 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/malldonado) or [E-mail](maalldonado@outlook.com).
 - 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado](https://malldonado.vercel.app) or by searching in the repository, such as [admmiz](https://admmiz.vercel.app), [artburger](https://artburger.vercel.app), [desenvolve](https://admmiz.desenvolve.app), [gtm engenharia](https://gtmengenharia.vercel.app).
 
 <!-- <hr>
