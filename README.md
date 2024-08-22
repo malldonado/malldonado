@@ -27,7 +27,7 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/malldonado?tab=repositories)
 - 🎨 &nbsp; Using [Dribbble](dribbble.com/malldonado) and Dribbble I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](matheusmaldonadosilva@outlook.com).
+- 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/matheusmaldonadosilva) or [E-mail](maalldonado@outlook.com).
 - 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado](https://malldonado.vercel.app) or by searching in the repository, such as [admmiz](https://admmiz.vercel.app), [artburger](https://artburger.vercel.app), [desenvolve](https://admmiz.desenvolve.app), [gtm engenharia](https://gtmengenharia.vercel.app).
 
 <!-- <hr>
