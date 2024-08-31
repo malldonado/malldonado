@@ -23,7 +23,6 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 👨‍🎓 &nbsp; I have a degree in Analysis and Systems Development from FATEC and I am currently attending an advanced English course in person at Influx.
 - 🐶 &nbsp; I contributed as a front-end developer to our group's TCC project, creating a website for an animal adoption.
 - 🤝 &nbsp; I contributed by working at [Performa.ai](https://performa.ai/) for over 2 years, focusing on e-commerce integrations.
-- 🌱 &nbsp; I’m currently learning GraphQL, AWS and Docker;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/malldonado?tab=repositories)
 - 🎨 &nbsp; Using [Dribbble](dribbble.com/malldonado) and Dribbble I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
