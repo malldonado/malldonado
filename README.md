@@ -1,11 +1,11 @@
-
+<!--
   <a align="center" href="https://git.io/typing-svg">
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&color=ffffff&width=435&lines=Hello%2C+There!!👋;I'm+Matheus+Maldonado;Welcome+to+my+github!!" alt="Typing SVG" />
   </a>
 
 
 <br>
-
+-->
 <a href='https://br.linkedin.com/in/malldonado'><img height="20px" align='left' alt="linkedin" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png?ga=GA1.1.1911516281.1712110162&"/></a>
 <a href='https://www.instagram.com/matheusmalldonado'><img height="20px" align='left' alt="instagram" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" /></a>
 <a href='https://dribbble.com/malldonado'><img height="20px" align='left' alt="dribbble" src="https://cdn-icons-png.freepik.com/512/408/408743.png" /></a>
