@@ -27,7 +27,7 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 - 🎨 &nbsp; Using [Dribbble](dribbble.com/malldonado) and Dribbble I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/malldonado) or [E-mail](maalldonado@outlook.com).
-- 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado](https://malldonado.vercel.app) or by searching in the repository, such as [admmiz](https://admmiz.vercel.app), [desenvolve](https://admmiz.desenvolve.app), [gtm engenharia](https://gtmengenharia.vercel.app) and [artburger](https://artburgeer.vercel.app).
+<!-- - 📚 &nbsp; You can find projects done by me in my portfolio at [malldonado](https://malldonado.vercel.app) or by searching in the repository, such as [admmiz](https://admmiz.vercel.app), [desenvolve](https://admmiz.desenvolve.app), [gtm engenharia](https://gtmengenharia.vercel.app) and [artburger](https://artburgeer.vercel.app). -->
 
 <!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
