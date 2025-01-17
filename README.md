@@ -11,13 +11,13 @@
 <a href='https://dribbble.com/malldonado'><img height="20px" align='left' alt="dribbble" src="https://cdn-icons-png.freepik.com/512/408/408743.png" /></a>
 <a href='https://malldonado.vercel.app/'><img height="20px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
 
-
+<!--
 I'm a dedicated full stack developer 👨‍💻, passionate about challenges and always eager to tackle new projects 💡, bringing innovative ideas to life."
 <br>
 <br>
 
 <!--<img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzd3QzaWZ2NGFhb3p5eW9qcmFoN2piYjN4cGxkeGZrZnV0Y2FnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhkgRdrMSnqDBofJru/giphy.gif' width="270px">-->
-
+<!--
 ### 🧐 More About Me:
 
 - 👨‍🎓 &nbsp; I have a degree in Analysis and Systems Development from FATEC and I am currently attending an advanced English course in person at Influx.
@@ -32,8 +32,6 @@ I'm a dedicated full stack developer 👨‍💻, passionate about challenges an
 <!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br> -->
-
-<br>
 
 <!-- ### 🔨 Languages and Tools: -->
 
