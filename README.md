@@ -11,8 +11,9 @@
 <a href='https://dribbble.com/malldonado'><img height="20px" align='left' alt="dribbble" src="https://cdn-icons-png.freepik.com/512/408/408743.png" /></a>
 <a href='https://malldonado.vercel.app/'><img height="20px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
 
-
-👨‍🎓 Graduated in Analysis and Systems Development, Java | Spring Boot | Microservices | MongoDB | SQL Server | AWS | Docker 👨‍💻, passionate about challenges and always eager to tackle new projects 💡, bringing innovative ideas to life."
+🎓 Graduated in Systems Analysis and Development at Fatec Americana
+👨‍🎓 Postgraduate in Java Technology at the Federal University of Technology – Paraná (UTFPR).
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,nextjs,angular,nodejs,ts,mysql,mongodb,postgres,java,spring,docker,aws)](https://skillicons.dev)
 <br>
 <br>
 
