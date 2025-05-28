@@ -12,6 +12,7 @@
 <a href='https://malldonado.vercel.app/'><img height="20px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
 
 🎓 Graduated in Systems Analysis and Development at Fatec Americana
+<br>
 👨‍🎓 Postgraduate in Java Technology at the Federal University of Technology – Paraná (UTFPR).
 </br>
 <br>
