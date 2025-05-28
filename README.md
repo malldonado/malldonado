@@ -13,7 +13,8 @@
 
 🎓 Graduated in Systems Analysis and Development at Fatec Americana
 👨‍🎓 Postgraduate in Java Technology at the Federal University of Technology – Paraná (UTFPR).
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,nextjs,angular,nodejs,ts,mysql,mongodb,postgres,java,spring,docker,aws)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,nodejs,ts,mysql,mongodb,postgres,java,spring,docker,aws)](https://skillicons.dev)
 <br>
 <br>
 
