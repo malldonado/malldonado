@@ -6,10 +6,18 @@
 
 <br>
 -->
-<a href='https://br.linkedin.com/in/malldonado'><img height="20px" align='left' alt="linkedin" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png?ga=GA1.1.1911516281.1712110162&"/></a>
-<a href='https://www.instagram.com/matheusmalldonado'><img height="20px" align='left' alt="instagram" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" /></a>
-<a href='https://dribbble.com/malldonado'><img height="20px" align='left' alt="dribbble" src="https://cdn-icons-png.freepik.com/512/408/408743.png" /></a>
-<a href='https://malldonado.vercel.app/'><img height="20px" alt="website" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" /></a>
+<a href="https://br.linkedin.com/in/malldonado" target="_blank">
+  <img alt="linkedin" width="16" height="16" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png?ga=GA1.1.1911516281.1712110162&" />
+</a>
+<a href="https://www.instagram.com/matheusmalldonado" target="_blank">
+  <img alt="instagram" width="16" height="16" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" />
+</a>
+<a href="https://dribbble.com/malldonado" target="_blank">
+  <img alt="dribbble" width="16" height="16" src="https://cdn-icons-png.freepik.com/512/408/408743.png" />
+</a>
+<a href="https://malldonado.vercel.app/" target="_blank">
+  <img alt="website" width="16" height="16" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" />
+</a>
 
 🎓 Graduated in Systems Analysis and Development at Fatec Americana
 <br>
