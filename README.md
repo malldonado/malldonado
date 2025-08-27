@@ -12,9 +12,11 @@
 <a href="https://www.instagram.com/matheusmalldonado" target="_blank">
   <img alt="instagram" width="30" height="30" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1911516281.1712110162&" />
 </a>
+<!--
 <a href="https://dribbble.com/malldonado" target="_blank">
   <img alt="dribbble" width="30" height="30" src="https://cdn-icons-png.freepik.com/512/408/408743.png" />
 </a>
+-->
 <a href="https://malldonado.vercel.app/" target="_blank">
   <img alt="website" width="30" height="30" src="https://cdn-icons-png.freepik.com/512/3178/3178285.png?ga=GA1.1.1911516281.1712110162&" />
 </a>
