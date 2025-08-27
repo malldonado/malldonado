@@ -24,7 +24,7 @@
 👨‍🎓 Postgraduate in Java Technology at the Federal University of Technology – Paraná (UTFPR).
 </br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,mysql,mongodb,postgres,java,spring,docker,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,mongodb,mysql,postgres,java,spring,kotlin,docker,aws,azure)](https://skillicons.dev)
 <br>
 <br>
 
